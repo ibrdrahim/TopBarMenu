@@ -9,7 +9,7 @@
 import UIKit
 
 class TopBarMenu : UIView, UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout  {
-    g
+    
     let cellId = "TopBarMenuCell"
     let menuList = ["Simple Form","Table View","Image"]
     
