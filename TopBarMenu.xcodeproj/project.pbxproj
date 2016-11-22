@@ -26,7 +26,7 @@
 		2AE556901DE2CFA900C2D239 /* TopBarMenuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE5568F1DE2CFA900C2D239 /* TopBarMenuUITests.swift */; };
 		2AE5569E1DE2CFF700C2D239 /* MenuCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE5569D1DE2CFF700C2D239 /* MenuCell.swift */; };
 		2AE556A01DE2D01300C2D239 /* BaseCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE5569F1DE2D01300C2D239 /* BaseCell.swift */; };
-		2AE556A21DE2D04200C2D239 /* TopMenuBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE556A11DE2D04200C2D239 /* TopMenuBar.swift */; };
+		2AE556A21DE2D04200C2D239 /* TopBarMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE556A11DE2D04200C2D239 /* TopBarMenu.swift */; };
 		2AE556A41DE2D08600C2D239 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE556A31DE2D08600C2D239 /* HomeViewController.swift */; };
 		2AE556AA1DE2D0EC00C2D239 /* View1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2AE556A91DE2D0EC00C2D239 /* View1.xib */; };
 		2AE556AC1DE2D0FB00C2D239 /* View1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE556AB1DE2D0FB00C2D239 /* View1.swift */; };
@@ -75,7 +75,7 @@
 		2AE556911DE2CFA900C2D239 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2AE5569D1DE2CFF700C2D239 /* MenuCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuCell.swift; sourceTree = "<group>"; };
 		2AE5569F1DE2D01300C2D239 /* BaseCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseCell.swift; sourceTree = "<group>"; };
-		2AE556A11DE2D04200C2D239 /* TopMenuBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopMenuBar.swift; sourceTree = "<group>"; };
+		2AE556A11DE2D04200C2D239 /* TopBarMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopBarMenu.swift; sourceTree = "<group>"; };
 		2AE556A31DE2D08600C2D239 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		2AE556A91DE2D0EC00C2D239 /* View1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View1.xib; sourceTree = "<group>"; };
 		2AE556AB1DE2D0FB00C2D239 /* View1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View1.swift; sourceTree = "<group>"; };
@@ -124,7 +124,7 @@
 				2A2051501DE436B000D041A3 /* UIViewExtension.swift */,
 				2AE5569F1DE2D01300C2D239 /* BaseCell.swift */,
 				2AE5569D1DE2CFF700C2D239 /* MenuCell.swift */,
-				2AE556A11DE2D04200C2D239 /* TopMenuBar.swift */,
+				2AE556A11DE2D04200C2D239 /* TopBarMenu.swift */,
 			);
 			name = MenuBar;
 			sourceTree = "<group>";
@@ -370,7 +370,7 @@
 				2A20514B1DE42E5400D041A3 /* View3.swift in Sources */,
 				2AE556701DE2CFA800C2D239 /* AppDelegate.swift in Sources */,
 				2AE5569E1DE2CFF700C2D239 /* MenuCell.swift in Sources */,
-				2AE556A21DE2D04200C2D239 /* TopMenuBar.swift in Sources */,
+				2AE556A21DE2D04200C2D239 /* TopBarMenu.swift in Sources */,
 				2A20513C1DE3FA7000D041A3 /* View1Controller.swift in Sources */,
 				2AE556A41DE2D08600C2D239 /* HomeViewController.swift in Sources */,
 				2A20514F1DE42E9900D041A3 /* View3Controller.swift in Sources */,
